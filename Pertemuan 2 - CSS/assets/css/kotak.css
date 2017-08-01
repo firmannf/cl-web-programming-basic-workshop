@@ -1,0 +1,33 @@
+/* kalo fixed ketika di scrool masih akan tetap tapi kalo absolute tidak ketika scrool*/
+
+.box{
+	padding: 10px;
+	width: 200px;
+	height: 200px;
+	color: white;
+}
+.clearfix{
+	clear: both;
+	float: none;
+	margin: 0px;
+}
+
+#box1{
+	background: #e74c3c;
+	float: left;
+}
+
+#box2{
+	background: #2ecc71;
+	float: left;
+}
+
+#box3{
+	background: #3498db;
+	float: left;
+}
+
+#box4{
+	background: #f1c40f;
+	float: left;
+}
