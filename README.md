@@ -1,2 +1,2 @@
-# cl-web-programming-workshop
-Basic web programming workshop in CodeLabs division
+# cl-web-programming-basic-workshop
+web programming basic workshop in CodeLabs division
